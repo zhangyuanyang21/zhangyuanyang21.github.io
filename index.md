@@ -9,7 +9,7 @@
     </td>
     <td align="left">
      
-      <!-- <p zhangyuanyang21.github.io>The School of Computer and Control Engineering, Yantai University</p> -->
+      <p zhangyuanyang21.github.io>The School of Computer and Control Engineering, Yantai University</p> 
       <p>Email: zhangyuanyang922@gmail.com</p>
       <p>Address: Yantai, Shandong Province</p>
       <p>[<a href="https://zhangyuanyang21.github.io/">Github</a>]</p>
@@ -19,7 +19,7 @@
 </table>
 
 ### Short Bio
-  <p align = "justify">I am currently pursuing the master degree with the School of Computer and Control Engineering, Yantai University, under the supervisor of Associate Professor <a href="https://qing20200222.github.io/">Weiqing Yan</a>.</p>
+  <p align = "justify">I am currently pursuing the master degree with the School of Computer and Control Engineering, Yantai University, under the supervisor of Associate Professor <a href="https://qing20200222.github.io/">Weiqing Yan</a>, My research interestsinclude machine learning and computer vision, especially on multi-view clustering and deep clustering.</p>
   
 ### Education Experience
   <ul>
