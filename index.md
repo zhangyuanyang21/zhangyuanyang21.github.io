@@ -12,7 +12,7 @@
       <p zhangyuanyang21.github.io>The School of Computer and Control Engineering, Yantai University</p> 
       <p>Email: zhangyuanyang922@gmail.com</p>
       <p>Address: Yantai, Shandong Province</p>
-      <p>[<a href="https://zhangyuanyang21.github.io/">Github</a>]</p>
+      <p>[<a href="https://github.com/zhangyuanyang21">Github</a>]</p>
       
     </td>
  </tr>
