@@ -18,7 +18,7 @@
  </tr>
 </table>
 
-### Short Bio
+### Biography
   <p align = "justify">I am currently pursuing the master degree with the School of Computer and Control Engineering, Yantai University, under the supervisor of Associate Professor <a href="https://qing20200222.github.io/">Weiqing Yan</a>, My research interests include machine learning and computer vision, especially on multi-view clustering and deep clustering.</p>
   
  
