@@ -5,11 +5,11 @@
 <table class="Yuanyang Zhang">
   <tr>
     <td>
-      <img src="/image.jpg" alt="Yuanyang Zhang" width="160px" height="201.6px" />&nbsp;
+      <img src="/me.jpg" alt="Yuanyang Zhang" width="160px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
      
-      <!-- <p zhangyuanyang21.github.io>PRMI Group, College of Computer, National University of Defense Technology</p> -->
+      <!-- <p zhangyuanyang21.github.io>The School of Computer and Control Engineering, Yantai University</p> -->
       <p>Email: zhangyuanyang922@gmail.com</p>
       <p>Address: Yantai, Shandong Province</p>
       <p>[<a href="https://zhangyuanyang21.github.io/">Github</a>]</p>
@@ -29,7 +29,7 @@
   </ul>
 <!-- <ul>
     <li> 
-      <p>[Sep 2016 - Jul 2020]. Bachelor, Ocean University of China, Qingdao, China </p>
+      <p>[Sep 2016 - Jul 2020]. Bachelor,  </p>
     </li>
   </ul> -->
  
