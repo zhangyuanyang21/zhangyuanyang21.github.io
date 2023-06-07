@@ -37,7 +37,7 @@
 ### Publications
   <ul> 
     <li>
-      <p>Weiqing Yan, <b>Yuanyang Zhang</b>, Chenlei Lv, Chang Tang, Guanghui Yue,Liang Liao, Weisi Lin. <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.html"> GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering</a>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pages: 19863-19872. <b>(CCF Rank A)</b> [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf">Paper</a>], [<a href="https://github.com/Galaxy922/GCFAggMVC">Code</a>] </p>
+      <p>Weiqing Yan, <b>Yuanyang Zhang</b>, Chenlei Lv, Chang Tang, Guanghui Yue, Liang Liao, Weisi Lin. <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.html"> GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering</a>. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pages: 19863-19872. <b>(CCF Rank A)</b> [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf">Paper</a>], [<a href="https://github.com/Galaxy922/GCFAggMVC">Code</a>] </p>
     </li>
   </ul>
 
