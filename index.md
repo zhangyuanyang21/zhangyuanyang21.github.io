@@ -1,43 +1,22 @@
-<!-- ## Welcome to GitHub Pages -->
+ <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Guangyuan Li
+                </p>
+                <p>I am a Ph.D.candidate at Zhejiang University in Hangzhou, where I work on <b>medical image analysis</b>, <b>image restoration</b>, and <b>neural rendering</b>.
+                </p>
 
-### Yuanyang Zhang
-
-<table class="Yuanyang Zhang">
-  <tr>
-    <td>
-      <img src="/me.jpg" alt="Yuanyang Zhang" width="160px" height="201.6px" />&nbsp;
-    </td>
-    <td align="left">
-     
-      <p zhangyuanyang21.github.io>The School of Computer and Control Engineering, Yantai University</p> 
-      <p>Email: zhangyuanyang922@gmail.com</p>
-      <p>Address: Yantai, Shandong Province</p>
-      <p>[<a href="https://github.com/zhangyuanyang21">Github</a>]</p>
-      
-    </td>
- </tr>
-</table>
-
-### Short Bio
-  <p align = "justify">I am currently pursuing the master degree with the School of Computer and Control Engineering, Yantai University, under the supervisor of Associate Professor <a href="https://qing20200222.github.io/">Weiqing Yan</a>, My research interests include machine learning and computer vision, especially on multi-view clustering and deep clustering.</p>
-  
- 
-### Education Experience
-<ul>
-    <li> 
-      <p>[Sep 2024 - Now]. Ph.D, Southeast University, Nanjing, China </p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p>[Sep 2021 - 2024]. Master, Yantai University, Yantai, China </p>
-    </li>
-  </ul>
-<!-- <ul>
-    <li> 
-      <p>[Sep 2016 - Jul 2020]. Bachelor,  </p>
-    </li>
-  </ul> -->
+                <p style="text-align:center">
+                  <a href="cslgy@zju.edu.cn">Email</a> &nbsp;/&nbsp;
+                  <a href="https://scholar.google.com.hk/citations?user=-AHPok4AAAAJ&hl=zh-CN">Google Scholar</a> &nbsp;/&nbsp;
+                  <a href="">CV</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/GuangYuanKK/">Github</a>
+                </p>
+              </td>
 
 ### Publications
 <ul> 
