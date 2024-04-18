@@ -5,9 +5,9 @@
             <tr style="padding:0px">
               <td style="padding:2.5%;width:63%;vertical-align:middle">
                 <p class="name" style="text-align: center;">
-                  Guangyuan Li
+                  Yuanyang Zhang
                 </p>
-                <p>I am a Ph.D.candidate at Zhejiang University in Hangzhou, where I work on <b>medical image analysis</b>, <b>image restoration</b>, and <b>neural rendering</b>.
+                <p>I am a Ph.D.candidate at Southeast University in NanJing, where I work on <b>deep multi-view clustering </b>, <b>computer vision</b>, and <b>machine learning </b>.
                 </p>
 
                 <p style="text-align:center">
