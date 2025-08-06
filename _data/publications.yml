@@ -1,56 +1,70 @@
 main:
-  - title: "KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models"
-    authors: "<strong>Yongliang Wu</strong>, Zonghui Li, Xinting Hu, Xinyu Ye, Xianfang Zeng, Gang Yu, Wenbo Zhu, Bernt Schiele, Ming-Hsuan Yang, Xu Yang"
-    conference_short: Preprint
-    conference: "arXiv, 2025.5."
-    pdf: https://arxiv.org/abs/2505.16707
-    image: ./assets/img/kris-bench.png
-    code: https://yongliang-wu.github.io/kris_bench_project_page/
 
-  - title: "Number it: Temporal Grounding Videos like Flipping Manga"
-    authors: "<strong>Yongliang Wu*</strong>, Xinting Hu*, Yuyang Sun, Yizhou Zhou, Wenbo Zhu, Fengyun Rao, Bernt Schiele, Xu Yang"
-    conference_short: CVPR
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025."
-    pdf: https://arxiv.org/abs/2411.10332
-    code: https://github.com/yongliang-wu/NumPro
-    image: ./assets/img/numpro.png
+  - title: Robust Cross-Modal Deepfake Detection via Facial UV Maps and Momentum Contrastive Learning
+    authors: Yuesen Tang, <strong>Yuanyang Zhang</strong>, Wangxiao Mao, Li Yao<sup>†</sup>
+    conference_short: RAID
+    conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/FUME.png
+    # notes: Early Accept
 
-  - title: "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
-    authors: "<strong>Yongliang Wu*</strong>, Shiji Zhou*, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, Heng Chang, Xinting Hu, Xiao Zhou, Xu Yang"
-    conference_short: AAAI
-    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025."
-    pdf: https://arxiv.org/abs/2405.15304
-    code: https://github.com/yongliang-wu/DoCo
-    image: ./assets/img/unlearn.png
+  - title: SCGS: Interactive Scale-Controlled 3D Object Segmentation with Gaussian Splatting
+    authors: Yue Jin, Yilong Liu, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Li Yao<sup>†</sup>
+    conference_short: IJCNN
+    conference: International Joint Conference on Neural Networks, 2025.
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/SCGS.png
+    # notes: Early Accept
     
-  - title: "Video Repurposing from User Generated Content: A Large-scale Dataset and Benchmark"
-    authors: "<strong>Yongliang Wu*</strong>, Wenbo Zhu*, Jiawang Cao*, Yi Lu, Bozheng Li, Weiheng Chi, Zihan Qiu, Lirian Su, Haolin Zheng, Jay Wu, Xu Yang"
+  - title: Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering
+    authors: <strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
+    conference_short: PR
+    conference: Pattern Recognition.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320325003644
+    code: https://github.com/zhangyuanyang21/MS2FA-CMVC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3i5d8NlM-4AJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EafiY:AAZF9b8AAAAAaJIcZiYxZdAqNen4XOyTnb4FeHM&scisig=AAZF9b8AAAAAaJIcZmekWeQlcynh5QVwFgevMOY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/MS2FA.png
+    # notes: Early Accept
+
+  - title: Incomplete Multi-view Clustering via Diffusion Contrastive Generation
+    authors: <strong>Yuanyang Zhang*</strong>, Yijie Lin*, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
     conference_short: AAAI
-    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025."
-    pdf: https://arxiv.org/abs/2412.08879
-    code: https://github.com/yongliang-wu/Repurpose
-    image: ./assets/img/repurpose.png
+    conference: AAAI Conference on Artificial Intelligence (AAAI), 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34424
+    code: https://github.com/zhangyuanyang21/2025-AAAI-DCG
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iorledJl85cJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EYinM:AAZF9b8AAAAAaJIeknMHJDD5yIMNsTiCMmbGRnU&scisig=AAZF9b8AAAAAaJIekpNmA9zxvzIfah4ueYWf8iM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    # notes: Oral Presentation
+    image: ./assets/img/DCG.png
 
-  - title: "Exploring Diverse In-Context Configurations for Image Captioning"
-    authors: "Xu Yang, <strong>Yongliang Wu</strong>, Mingzhuo Yang, Haokun Chen, Xin Geng"
-    conference_short: NeurIPS
-    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2023."
-    pdf: https://arxiv.org/abs/2305.14800
-    code: https://github.com/yongliang-wu/ExploreCfg
-    image: ./assets/img/NeurIPS2023.png
-
-  - title: "VEU-Bench: Towards Comprehensive Understanding of Video Editing"
-    authors: "Bozheng Li, <strong>Yongliang Wu</strong>, Yi Lu, Jiashuo Yu, Licheng Tang, Jiawang Cao, Wenqing Zhu, Yuyang Sun, Jay Wu, Wenbo Zhu"
+  - title: LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter
+    authors: Jingjiao You, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>
+    conference_short: PG
+    conference: Pacific Graphics, 2024.
+    pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6avtc-JhauYJ:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkcrQ:AAZF9b8AAAAAaJIiarS2kVAlzJzJs6FMLyIsPno&scisig=AAZF9b8AAAAAaJIiaq-ABlg5wknBHsF5sTDShGg&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/LO-Gaussian.png
+    code: 
+    
+  - title: Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning
+    authors: Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chang Tang<sup>†</sup>, Wujie Zhou, Weisi Lin
+    conference_short: TNNLS
+    conference: IEEE Transactions on Neural Networks and Learning Systems.
+    pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wW9zaEOmsd0J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkIc0:AAZF9b8AAAAAaJIiOc0ufgdFZYu2Q6oydyZyXKI&scisig=AAZF9b8AAAAAaJIiOTylP-5JkSbZtL95VfDSOHM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/ACCMVC.png
+    code: https://github.com/zhangyuanyang21/2024-TNNLS-ACCMVC 
+    
+  - title: GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering
+    authors: Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui Yue, Liang Liao, Weisi Lin
     conference_short: CVPR
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025. "
-    image: ./assets/img/veu-bench.png
-    pdf: https://arxiv.org/abs/2504.17828
-    code: https://labazh.github.io/VEU-Bench.github.io/
-    notes: Highlight
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Fy9MzSztV50J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkEvg:AAZF9b8AAAAAaJIiCvjHCC4rAsvw2hkNn8e9718&scisig=AAZF9b8AAAAAaJIiCpLuO7aFX3ll56kjRx6dErM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/GCFAggMVC.png
+    code: https://github.com/Galaxy922/GCFAggMVC
 
-  - title: "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought"
-    authors: "Yi Lu*, Jiawang Cao*, <strong>Yongliang Wu*</strong>, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu"
-    conference_short: ACL
-    conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2025."
-    pdf: https://arxiv.org/abs/2506.04277
-    image: ./assets/img/rsvp.png
