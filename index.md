@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof. Xu Yang](https://yxpalmweb.github.io/). I also work closely with [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) at Max Planck Institute for Informatics and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) at University of California, Merced. I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
+Hello! I'm currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), where I'm fortunate to be supervised by [Prof. Li Yao](http://cse.seu.edu.cn/2019/0105/c23024a257562/page.htm). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
-**🎓 I'm currently looking for PhD position starting from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](./assets/files/wuyongliang_resume.pdf).**
+**🎓 I'm currently looking for CSC PhD position starting from 2027. If you are interested, please feel free to contact me.**
 
 ## Research Interests
-- **Vision-Language Model**
-- **Machine Unlearning**
-- **In-Context Learning**
+- **Multi-view Clustering** 	
+- **Multi-view Representation Learning**
+- **Multi-modal Learning**
 
 ## News
-- **[Jul. 2025]** 🔥 We are organizing [NextVid Workshop@NeurIPS 2025](https://what-makes-good-video.github.io/).
-- **[May 2025]** 🎉 One paper is accepted by ACL 2025.
-- **[Feb. 2025]** 🎉 Two papers are accepted by CVPR 2025.
-- **[Dec. 2024]** 🎉 Two papers are accepted by AAAI 2025.
+- **[Jul. 2025]** 🎉 one paper are accepted by RAID 2025.
+- **[Jan. 2025]** 🎉 one paper are accepted by IJCNN 2025.
+- **[Dec. 2024]** 🎉 one paper are accepted by AAAI 2025.
 
 {% include_relative _includes/publications.md %}
 
