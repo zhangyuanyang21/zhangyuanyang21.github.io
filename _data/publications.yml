@@ -3,7 +3,7 @@ main:
   - title: "Robust Cross-Modal Deepfake Detection via Facial UV Maps and Momentum Contrastive Learning"
     authors: "Yuesen Tang, <strong>Yuanyang Zhang</strong>, Wangxiao Mao, Li Yao<sup>†</sup>"
     conference_short: RAID
-    conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).
+    conference: "The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)."
     pdf: 
     code: 
     bibtex: 
