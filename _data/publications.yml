@@ -10,61 +10,61 @@ main:
     image: ./assets/img/FUME.png
     # notes: Early Accept
 
-  # - title: SCGS: Interactive Scale-Controlled 3D Object Segmentation with Gaussian Splatting
-  #   authors: Yue Jin, Yilong Liu, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Li Yao<sup>†</sup>
-  #   conference_short: IJCNN
-  #   conference: International Joint Conference on Neural Networks, 2025.
-  #   pdf: 
-  #   code: 
-  #   bibtex: 
-  #   image: ./assets/img/SCGS.png
-  #   # notes: Early Accept
+  - title: "SCGS: Interactive Scale-Controlled 3D Object Segmentation with Gaussian Splatting"
+    authors: "Yue Jin, Yilong Liu, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Li Yao<sup>†</sup>"
+    conference_short: IJCNN
+    conference: "International Joint Conference on Neural Networks, 2025."
+    pdf: 
+    code: 
+    bibtex: 
+    image: ./assets/img/SCGS.png
+    # notes: Early Accept
     
-  # - title: Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering
-  #   authors: <strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin
-  #   conference_short: PR
-  #   conference: Pattern Recognition.
-  #   pdf: https://www.sciencedirect.com/science/article/pii/S0031320325003644
-  #   code: https://github.com/zhangyuanyang21/MS2FA-CMVC
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3i5d8NlM-4AJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EafiY:AAZF9b8AAAAAaJIcZiYxZdAqNen4XOyTnb4FeHM&scisig=AAZF9b8AAAAAaJIcZmekWeQlcynh5QVwFgevMOY&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   image: ./assets/img/MS2FA.png
-  #   # notes: Early Accept
+  - title: "Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering"
+    authors: "<strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin"
+    conference_short: PR
+    conference: "Pattern Recognition."
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320325003644
+    code: https://github.com/zhangyuanyang21/MS2FA-CMVC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3i5d8NlM-4AJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EafiY:AAZF9b8AAAAAaJIcZiYxZdAqNen4XOyTnb4FeHM&scisig=AAZF9b8AAAAAaJIcZmekWeQlcynh5QVwFgevMOY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/MS2FA.png
+    # notes: Early Accept
 
-  # - title: Incomplete Multi-view Clustering via Diffusion Contrastive Generation
-  #   authors: <strong>Yuanyang Zhang*</strong>, Yijie Lin*, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu
-  #   conference_short: AAAI
-  #   conference: AAAI Conference on Artificial Intelligence (AAAI), 2025.
-  #   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34424
-  #   code: https://github.com/zhangyuanyang21/2025-AAAI-DCG
-  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iorledJl85cJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EYinM:AAZF9b8AAAAAaJIeknMHJDD5yIMNsTiCMmbGRnU&scisig=AAZF9b8AAAAAaJIekpNmA9zxvzIfah4ueYWf8iM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   # notes: Oral Presentation
-  #   image: ./assets/img/DCG.png
+  - title: "Incomplete Multi-view Clustering via Diffusion Contrastive Generation"
+    authors: "<strong>Yuanyang Zhang*</strong>, Yijie Lin*, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu"
+    conference_short: AAAI
+    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34424
+    code: https://github.com/zhangyuanyang21/2025-AAAI-DCG
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iorledJl85cJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EYinM:AAZF9b8AAAAAaJIeknMHJDD5yIMNsTiCMmbGRnU&scisig=AAZF9b8AAAAAaJIekpNmA9zxvzIfah4ueYWf8iM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    # notes: Oral Presentation
+    image: ./assets/img/DCG.png
 
-  # - title: LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter
-  #   authors: Jingjiao You, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>
-  #   conference_short: PG
-  #   conference: Pacific Graphics, 2024.
-  #   pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6avtc-JhauYJ:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkcrQ:AAZF9b8AAAAAaJIiarS2kVAlzJzJs6FMLyIsPno&scisig=AAZF9b8AAAAAaJIiaq-ABlg5wknBHsF5sTDShGg&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   image: ./assets/img/LO-Gaussian.png
-  #   code: 
+  - title: "LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter"
+    authors: "Jingjiao You, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>"
+    conference_short: PG
+    conference: "Pacific Graphics, 2024."
+    pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6avtc-JhauYJ:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkcrQ:AAZF9b8AAAAAaJIiarS2kVAlzJzJs6FMLyIsPno&scisig=AAZF9b8AAAAAaJIiaq-ABlg5wknBHsF5sTDShGg&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/LO-Gaussian.png
+    code: 
     
-  # - title: Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning
-  #   authors: Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chang Tang<sup>†</sup>, Wujie Zhou, Weisi Lin
-  #   conference_short: TNNLS
-  #   conference: IEEE Transactions on Neural Networks and Learning Systems.
-  #   pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wW9zaEOmsd0J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkIc0:AAZF9b8AAAAAaJIiOc0ufgdFZYu2Q6oydyZyXKI&scisig=AAZF9b8AAAAAaJIiOTylP-5JkSbZtL95VfDSOHM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   image: ./assets/img/ACCMVC.png
-  #   code: https://github.com/zhangyuanyang21/2024-TNNLS-ACCMVC 
+  - title: "Anchor-sharing and Cluster-wise Contrastive Network for Multi-View Representation Learning"
+    authors: "Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chang Tang<sup>†</sup>, Wujie Zhou, Weisi Lin"
+    conference_short: TNNLS
+    conference: "IEEE Transactions on Neural Networks and Learning Systems."
+    pdf: https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=UjeMnyMAAAAJ&citation_for_view=UjeMnyMAAAAJ:7PzlFSSx8tAC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wW9zaEOmsd0J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkIc0:AAZF9b8AAAAAaJIiOc0ufgdFZYu2Q6oydyZyXKI&scisig=AAZF9b8AAAAAaJIiOTylP-5JkSbZtL95VfDSOHM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/ACCMVC.png
+    code: https://github.com/zhangyuanyang21/2024-TNNLS-ACCMVC 
     
-  # - title: GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering
-  #   authors: Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui Yue, Liang Liao, Weisi Lin
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
-  #   pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf
-  #   bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Fy9MzSztV50J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkEvg:AAZF9b8AAAAAaJIiCvjHCC4rAsvw2hkNn8e9718&scisig=AAZF9b8AAAAAaJIiCpLuO7aFX3ll56kjRx6dErM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-  #   image: ./assets/img/GCFAggMVC.png
-  #   code: https://github.com/Galaxy922/GCFAggMVC
+  - title: "GCFAgg: Global and Cross-view Feature Aggregation for Multi-view Clustering"
+    authors: "Weiqing Yan, <strong>Yuanyang Zhang</strong>, Chenlei Lv, Chang Tang<sup>†</sup>, Guanghui Yue, Liang Liao, Weisi Lin"
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023."
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Fy9MzSztV50J:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkEvg:AAZF9b8AAAAAaJIiCvjHCC4rAsvw2hkNn8e9718&scisig=AAZF9b8AAAAAaJIiCpLuO7aFX3ll56kjRx6dErM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/GCFAggMVC.png
+    code: https://github.com/Galaxy922/GCFAggMVC
 
