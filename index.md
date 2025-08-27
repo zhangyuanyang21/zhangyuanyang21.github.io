@@ -11,6 +11,7 @@ Hello! I'm currently a Ph.D. student at [Southeast University](https://www.seu.e
 ## Research Interests
 - **Multi-view Clustering** 	
 - **Multi-modal Learning**
+- **Anomaly detection**
 - **Person Re-Identification**
 
 ## News
