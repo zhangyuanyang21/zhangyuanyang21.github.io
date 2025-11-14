@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), supervised by [Prof. Li Yao](http://cse.seu.edu.cn/2019/0105/c23024a257562/page.htm). I received my Master’s degree from Yantai University, where I was advised by [Prof. Weiqing Yan](https://scholar.google.com.hk/citations?user=m6ZydDsAAAAJ&hl=zh-CN). My research interests span a wide range of topics; please feel free to contact me if you have any questions or would like to discuss my work.
-
+Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), supervised by [Prof. Li Yao](http://cse.seu.edu.cn/2019/0105/c23024a257562/page.htm). I received my Master’s degree from Yantai University, where I was advised by [Prof. Weiqing Yan](https://scholar.google.com.hk/citations?user=m6ZydDsAAAAJ&hl=zh-CN). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
 ## Research Interests
 - **Multi-view Clustering** 	
