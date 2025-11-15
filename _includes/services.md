@@ -1,4 +1,5 @@
 ## Honors and Awards
+- 2025.11, Outstanding Master’s Thesis Award of the Shandong Computer Society
 - 2023.10, Outstanding Graduate Students of Yantai University.
 
 ## Educations
