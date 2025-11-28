@@ -1,14 +1,14 @@
 main:
 
-  - title: "Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling"
-    authors: "<strong>Yuanyang Zhang</strong>, Xinhang Wan, Chao Zhang, Jie Xu, Cunjian Chen, Tien-Tsin Wong, Li Yao<sup>†</sup>, Yijie Lin<sup>†</sup>"
-    conference_short: AAAI
-    conference: "AAAI Conference on Artificial Intelligence (AAAI), 2026."
-    pdf: 
-    code: https://github.com/zhangyuanyang21/2026-AAAI-MGLC
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: 
-    image: ./assets/img/MGLC.png
+  # - title: "Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling"
+  #   authors: "<strong>Yuanyang Zhang</strong>, Xinhang Wan, Chao Zhang, Jie Xu, Cunjian Chen, Tien-Tsin Wong, Li Yao<sup>†</sup>, Yijie Lin<sup>†</sup>"
+  #   conference_short: AAAI
+  #   conference: "AAAI Conference on Artificial Intelligence (AAAI), 2026."
+  #   pdf: 
+  #   code: https://github.com/zhangyuanyang21/2026-AAAI-MGLC
+  #   # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: 
+  #   image: ./assets/img/MGLC.png
 
   - title: "Robust Cross-Modal Deepfake Detection via Facial UV Maps and Momentum Contrastive Learning"
     authors: "Yuesen Tang, <strong>Yuanyang Zhang</strong>, Wangxiao Mao, Li Yao<sup>†</sup>"
