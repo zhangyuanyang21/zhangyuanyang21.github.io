@@ -16,5 +16,5 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TGRS, IEEE TASE, Neurocomputing, and more.</autocolor></li>
+  <li><autocolor>IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TMM, IEEE TGRS, IEEE TASE, Neurocomputing, and more.</autocolor></li>
 </ul>
