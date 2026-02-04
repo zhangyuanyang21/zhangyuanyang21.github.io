@@ -9,8 +9,6 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 ## Research Interests
 - **Multi-view Clustering** 	
 - **Multi-modal Learning**
-- **Anomaly Detection**
-- **Person Re-Identification**
 
 ## News
 - **[Nov. 2025]** 🎉 one paper are accepted by AAAI 2026.
