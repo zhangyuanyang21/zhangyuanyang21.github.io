@@ -17,5 +17,5 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>r IEEE TKDE, TNNLS, TMM, TCSVT, TGRS and TASE.</autocolor></li>
+  <li><autocolor> IEEE TKDE, TNNLS, TMM, TCSVT, TGRS and TASE.</autocolor></li>
 </ul>
