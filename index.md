@@ -11,6 +11,7 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 - **Multi-modal Learning**
 
 ## News
+- **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
 - **[Nov. 2025]** 🎉 one paper are accepted by AAAI 2026.
 - **[Jul. 2025]** 🎉 one paper are accepted by RAID 2025.
 - **[Jan. 2025]** 🎉 one paper are accepted by IJCNN 2025.
