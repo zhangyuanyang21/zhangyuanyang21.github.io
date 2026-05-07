@@ -19,16 +19,6 @@ main:
     bibtex: 
     image: ./assets/img/FUME.png
     # notes: Early Accept
-
-  - title: "SCGS: Interactive Scale-Controlled 3D Object Segmentation with Gaussian Splatting"
-    authors: "Yue Jin, Yilong Liu, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Li Yao<sup>†</sup>"
-    conference_short: IJCNN
-    conference: "International Joint Conference on Neural Networks, 2025."
-    pdf: 
-    code: 
-    bibtex: 
-    image: ./assets/img/SCGS.png
-    # notes: Early Accept
     
   - title: "Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering"
     authors: "<strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin"
