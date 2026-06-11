@@ -4,7 +4,7 @@ main:
     authors: "<strong>Yuanyang Zhang</strong>, Yijie Lin, Xinhang Wan, Jie Xu, Li Yao<sup>†</sup>, Weiqing Yan, Chang Tang"
     conference_short: TKDE  
     conference: "IEEE Transactions on Knowledge and Data Engineering"
-    pdf: 
+    pdf: https://ieeexplore.ieee.org/abstract/document/11433015
     code: 
     bibtex: 
     image: ./assets/img/SACDG.png
