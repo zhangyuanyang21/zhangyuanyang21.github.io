@@ -9,6 +9,7 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 ## Research Interests
 - **Multi-view Clustering** 	
 - **Multi-modal Learning**
+- **3D scene understanding**
 
 ## News
 - **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
