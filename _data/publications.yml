@@ -13,7 +13,7 @@ main:
     authors: "<strong>Yuanyang Zhang</strong>, Xinhang Wan, Chao Zhang, Jie Xu, Cunjian Chen, Tien-Tsin Wong, Li Yao<sup>†</sup>, Yijie Lin<sup>†</sup>"
     conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2026."
-    pdf: 
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34424
     code: https://github.com/zhangyuanyang21/2026-AAAI-MGLC
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: 
