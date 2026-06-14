@@ -13,9 +13,9 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 
 ## News
 - **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
+- **[Mar. 2026]** 🎉 one paper are accepted by TKDE 2026.
 - **[Nov. 2025]** 🎉 one paper are accepted by AAAI 2026.
 - **[Jul. 2025]** 🎉 one paper are accepted by RAID 2025.
-- **[Jan. 2025]** 🎉 one paper are accepted by IJCNN 2025.
 - **[Dec. 2024]** 🎉 one paper are accepted by AAAI 2025.
 
 {% include_relative _includes/publications.md %}
