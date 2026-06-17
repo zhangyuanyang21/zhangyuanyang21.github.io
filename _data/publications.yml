@@ -19,16 +19,6 @@ main:
     bibtex: 
     image: ./assets/img/MGLC.png
     
-  - title: "Robust Cross-Modal Deepfake Detection via Facial UV Maps and Momentum Contrastive Learning"
-    authors: "Yuesen Tang, <strong>Yuanyang Zhang</strong>, Wangxiao Mao, Li Yao<sup>†</sup>"
-    conference_short: RAID
-    conference: "The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)."
-    pdf: https://ieeexplore.ieee.org/abstract/document/11352495
-    code: 
-    bibtex: 
-    image: ./assets/img/FUME.png
-    # notes: Early Accept
-    
   - title: "Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering"
     authors: "<strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin"
     conference_short: PR
@@ -49,15 +39,54 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iorledJl85cJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EYinM:AAZF9b8AAAAAaJIeknMHJDD5yIMNsTiCMmbGRnU&scisig=AAZF9b8AAAAAaJIekpNmA9zxvzIfah4ueYWf8iM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     # notes: Oral Presentation
     image: ./assets/img/DCG.png
+
+  - title: "Ref2Inpaint: 3D Gaussian Inpainting via Visibility-Aware Mask Refinement and VLM-Guided Reference Retrieval."
+    authors: "Yining Xu, <strong>Yuanyang Zhang</strong>, Jingjiao You, Yingjie Huang, Jianbo Mei, Yilong Liu, Li Yao<sup>†</sup>"
+    conference_short: ICMR
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    pdf: https://dl.acm.org/doi/10.1145/3805622.3810750
+    bibtex: 
+    image: ./assets/img/Ref2Inpaint.png
+    code: 
+
+  - title: "GlassSplat: Geometric Consistency and Pruning for Reflection-Free 3D Scene Reconstruction."
+    authors: "Jingjiao You, <strong>Yuanyang Zhang</strong>, Yining Xu, Yunjie Zhang, Li Yao<sup>†</sup>, Cunjian Chen<sup>†</sup>, Tien-Tsin Wong<sup>†</sup>"
+    conference_short: ICMR
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    pdf: https://dl.acm.org/doi/10.1145/3805622.3810712
+    bibtex: 
+    image: ./assets/img/GlassSplat.png
+    code: 
+
+    - title: "SaF-AD: Saliency-Adaptive and Feature-Consistent Diffusion for Industrial Anomaly Detection."
+    authors: "Yilong Liu, <strong>Yuanyang Zhang</strong>, Zirui Luo, Kaixi Xu, Yining Xu, Li Yao<sup>†</sup>"
+    conference_short: ICMR
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    pdf: https://dl.acm.org/doi/10.1145/3805622.3810806
+    bibtex: 
+    image: ./assets/img/GlassSplat.png
+    code: 
+    
+    
     
   - title: "SAND: Semantic-Aware Anomaly Detection withRegion-Consistent Memory for Noisy Training"
     authors: "Kaixi Xu, <strong>Yuanyang Zhang</strong>, Yilong Liu, Yutong He, Li Yao<sup>†</sup>"
     conference_short: ICMR
     conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
     pdf: https://dl.acm.org/doi/epdf/10.1145/3805622.3810738
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6avtc-JhauYJ:scholar.google.com/&output=citation&scisdr=CgIi5NxCEO7mj1EkcrQ:AAZF9b8AAAAAaJIiarS2kVAlzJzJs6FMLyIsPno&scisig=AAZF9b8AAAAAaJIiaq-ABlg5wknBHsF5sTDShGg&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    bibtex: 
     image: ./assets/img/SAND.png
     code: 
+    
+  - title: "Robust Cross-Modal Deepfake Detection via Facial UV Maps and Momentum Contrastive Learning"
+    authors: "Yuesen Tang, <strong>Yuanyang Zhang</strong>, Wangxiao Mao, Li Yao<sup>†</sup>"
+    conference_short: RAID
+    conference: "The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)."
+    pdf: https://ieeexplore.ieee.org/abstract/document/11352495
+    code: 
+    bibtex: 
+    image: ./assets/img/FUME.png
+    # notes: Early Accept
 
   - title: "LO-Gaussian: Gaussian Splatting for Low-light and Overexposure Scenes through Simulated Filter"
     authors: "Jingjiao You, <strong>Yuanyang Zhang</strong>, Tianchen Zhou, Yecheng Zhao, Li Yao<sup>†</sup>"
