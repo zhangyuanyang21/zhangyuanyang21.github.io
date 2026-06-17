@@ -43,7 +43,7 @@ main:
   - title: "Ref2Inpaint: 3D Gaussian Inpainting via Visibility-Aware Mask Refinement and VLM-Guided Reference Retrieval."
     authors: "Yining Xu, <strong>Yuanyang Zhang</strong>, Jingjiao You, Yingjie Huang, Jianbo Mei, Yilong Liu, Li Yao<sup>†</sup>"
     conference_short: ICMR
-    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026."
     pdf: https://dl.acm.org/doi/10.1145/3805622.3810750
     bibtex: 
     image: ./assets/img/Ref2Inpaint.png
@@ -52,7 +52,7 @@ main:
   - title: "GlassSplat: Geometric Consistency and Pruning for Reflection-Free 3D Scene Reconstruction."
     authors: "Jingjiao You, <strong>Yuanyang Zhang</strong>, Yining Xu, Yunjie Zhang, Li Yao<sup>†</sup>, Cunjian Chen<sup>†</sup>, Tien-Tsin Wong<sup>†</sup>"
     conference_short: ICMR
-    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026."
     pdf: https://dl.acm.org/doi/10.1145/3805622.3810712
     bibtex: 
     image: ./assets/img/GlassSplat.png
@@ -61,7 +61,7 @@ main:
     - title: "SaF-AD: Saliency-Adaptive and Feature-Consistent Diffusion for Industrial Anomaly Detection."
     authors: "Yilong Liu, <strong>Yuanyang Zhang</strong>, Zirui Luo, Kaixi Xu, Yining Xu, Li Yao<sup>†</sup>"
     conference_short: ICMR
-    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026."
     pdf: https://dl.acm.org/doi/10.1145/3805622.3810806
     bibtex: 
     image: ./assets/img/GlassSplat.png
@@ -72,7 +72,7 @@ main:
   - title: "SAND: Semantic-Aware Anomaly Detection withRegion-Consistent Memory for Noisy Training"
     authors: "Kaixi Xu, <strong>Yuanyang Zhang</strong>, Yilong Liu, Yutong He, Li Yao<sup>†</sup>"
     conference_short: ICMR
-    conference: "International Conference on Multimedia Retrieval (ICMR), 2026.."
+    conference: "International Conference on Multimedia Retrieval (ICMR), 2026."
     pdf: https://dl.acm.org/doi/epdf/10.1145/3805622.3810738
     bibtex: 
     image: ./assets/img/SAND.png
