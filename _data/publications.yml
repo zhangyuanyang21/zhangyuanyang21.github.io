@@ -58,16 +58,14 @@ main:
     image: ./assets/img/GlassSplat.png
     code: 
 
-    - title: "SaF-AD: Saliency-Adaptive and Feature-Consistent Diffusion for Industrial Anomaly Detection."
+  - title: "SaF-AD: Saliency-Adaptive and Feature-Consistent Diffusion for Industrial Anomaly Detection."
     authors: "Yilong Liu, <strong>Yuanyang Zhang</strong>, Zirui Luo, Kaixi Xu, Yining Xu, Li Yao<sup>†</sup>"
     conference_short: ICMR
     conference: "International Conference on Multimedia Retrieval (ICMR), 2026."
     pdf: https://dl.acm.org/doi/10.1145/3805622.3810806
     bibtex: 
-    image: ./assets/img/GlassSplat.png
+    image: ./assets/img/SaF-AD.png
     code: 
-    
-    
     
   - title: "SAND: Semantic-Aware Anomaly Detection withRegion-Consistent Memory for Noisy Training"
     authors: "Kaixi Xu, <strong>Yuanyang Zhang</strong>, Yilong Liu, Yutong He, Li Yao<sup>†</sup>"
