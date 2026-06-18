@@ -7,8 +7,8 @@ layout: homepage
 Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), supervised by [Prof. Li Yao](https://cs.seu.edu.cn/yaoli/main.htm). I received my Master’s degree from Yantai University, where I was advised by [Prof. Weiqing Yan](https://computer.ytu.edu.cn/info/1018/5200.htm). I have a wide range of research topics and interests, feel free to contact me if you have any questions or would like to discuss my works.
 
 ## Research Interests
-- **Multi-view Clustering** 	
 - **Multi-modal Learning**
+- **Multi-view Clustering**
 - **3D scene understanding**
 
 ## News
