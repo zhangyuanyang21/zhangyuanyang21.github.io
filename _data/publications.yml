@@ -19,16 +19,6 @@ main:
     bibtex: 
     image: ./assets/img/MGLC.png
     
-  - title: "Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering"
-    authors: "<strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin"
-    conference_short: PR
-    conference: "Pattern Recognition."
-    pdf: https://www.sciencedirect.com/science/article/pii/S0031320325003644
-    code: https://github.com/zhangyuanyang21/MS2FA-CMVC
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3i5d8NlM-4AJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EafiY:AAZF9b8AAAAAaJIcZiYxZdAqNen4XOyTnb4FeHM&scisig=AAZF9b8AAAAAaJIcZmekWeQlcynh5QVwFgevMOY&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/MS2FA.png
-    # notes: Early Accept
-
   - title: "Incomplete Multi-view Clustering via Diffusion Contrastive Generation"
     authors: "<strong>Yuanyang Zhang*</strong>, Yijie Lin*, Weiqing Yan, Li Yao<sup>†</sup>, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu"
     conference_short: AAAI
@@ -39,6 +29,16 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iorledJl85cJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EYinM:AAZF9b8AAAAAaJIeknMHJDD5yIMNsTiCMmbGRnU&scisig=AAZF9b8AAAAAaJIekpNmA9zxvzIfah4ueYWf8iM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     # notes: Oral Presentation
     image: ./assets/img/DCG.png
+    
+  - title: "Multi-branch Space Sharing Feature Aggregation for contrastive multi-view clustering"
+    authors: "<strong>Yuanyang Zhang</strong>, Weiqing Yan<sup>†</sup>, Chang Tang, Wujie Zhou, Jian Jin"
+    conference_short: PR
+    conference: "Pattern Recognition."
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320325003644
+    code: https://github.com/zhangyuanyang21/MS2FA-CMVC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:3i5d8NlM-4AJ:scholar.google.com/&output=citation&scisdr=CgIiUOuJEO7mj1EafiY:AAZF9b8AAAAAaJIcZiYxZdAqNen4XOyTnb4FeHM&scisig=AAZF9b8AAAAAaJIcZmekWeQlcynh5QVwFgevMOY&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/MS2FA.png
+    # notes: Early Accept
 
   - title: "Ref2Inpaint: 3D Gaussian Inpainting via Visibility-Aware Mask Refinement and VLM-Guided Reference Retrieval."
     authors: "Yining Xu, <strong>Yuanyang Zhang</strong>, Jingjiao You, Yingjie Huang, Jianbo Mei, Yilong Liu, Li Yao<sup>†</sup>"
