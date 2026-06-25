@@ -14,7 +14,7 @@ main:
     conference_short: AAAI
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2026."
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/34424
-    code:
+    code: https://github.com/zhangyuanyang21/2026-AAAI-MGLC
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: 
     image: ./assets/img/MGLC.png
