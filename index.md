@@ -12,6 +12,7 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 - **Multi-modal Learning**
 - **Multi-view Clustering**
 - **3D scene understanding**
+- **Industrial Anomaly Detection**
 
 ## News
 - **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
