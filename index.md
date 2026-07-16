@@ -13,8 +13,10 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 - **Multi-view Clustering**
 - **3D scene understanding**
 - **Industrial Anomaly Detection**
+- **Person Re-identification**
 
 ## News
+- **[July. 2026]** 🎉 Three paper are accepted by ACM MM 2026.
 - **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
 - **[Mar. 2026]** 🎉 one paper are accepted by TKDE.
 - **[Nov. 2025]** 🎉 one paper are accepted by AAAI 2026.
