@@ -16,12 +16,12 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 - **Person Re-identification**
 
 ## News
-- **[July. 2026]** 🎉 Three paper are accepted by ACM MM 2026.
-- **[Apr. 2026]** 🎉 four paper are accepted by ICMR 2026.
-- **[Mar. 2026]** 🎉 one paper are accepted by TKDE.
-- **[Nov. 2025]** 🎉 one paper are accepted by AAAI 2026.
-- **[Jul. 2025]** 🎉 one paper are accepted by RAID 2025.
-- **[Dec. 2024]** 🎉 one paper are accepted by AAAI 2025.
+- **[July. 2026]** 🎉 Three papers accepted by ACM Multimedia 2026.
+- **[Apr. 2026]** 🎉 four papers accepted by ICMR 2026.
+- **[Mar. 2026]** 🎉 one paper accepted by TKDE.
+- **[Nov. 2025]** 🎉 one paper accepted by AAAI 2026.
+- **[Jul. 2025]** 🎉 one paper accepted by RAID 2025.
+- **[Dec. 2024]** 🎉 one paper accepted by AAAI 2025.
 
 {% include_relative _includes/publications.md %}
 
