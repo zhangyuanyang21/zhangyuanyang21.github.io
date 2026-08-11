@@ -10,6 +10,7 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 
 ## Research Interests
 - **3D Vision**
+- **3D Scene Understanding**
 - **Multi-modal Learning**
 - **Person Re-identification**
 - **Industrial Anomaly Detection**
