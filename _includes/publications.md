@@ -3,15 +3,15 @@
   <button
     type="button"
     class="show-publications-button"
-    aria-expanded="false"
+    aria-expanded="true"
     aria-controls="publications-list"
     data-show-text="Show all"
     data-hide-text="Show selected">
-    Show all
+    Show selected
   </button>
 </div>
 
-<div class="publications" id="publications-list">
+<div class="publications show-all-publications" id="publications-list">
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
       {% if link.primary_author == true %}
@@ -24,7 +24,7 @@
 </div>
 
 <style>
-  /* 默认 Show selected：隐藏非第一作者论文 */
+  /* Show selected 状态下隐藏非第一作者论文 */
   .publications:not(.show-all-publications) .secondary-publication {
     display: none;
   }
