@@ -16,6 +16,7 @@ Hello! I am currently a Ph.D. student at [Southeast University](https://www.seu.
 - **Industrial Anomaly Detection**
 
 ## News
+- **[Aug. 2026]** 🎉 One papers accepted by Information Fusion!
 - **[Aug. 2026]** 🎉 Two papers accepted by CIKM 2026!
 - **[July. 2026]** 🎉 Three papers accepted by ACM Multimedia 2026!
 - **[Apr. 2026]** 🎉 Four papers accepted by ICMR 2026!
