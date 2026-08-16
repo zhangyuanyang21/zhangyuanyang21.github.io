@@ -78,6 +78,18 @@
         </a>
         {% endif %}
 
+        {% if site.cv_link %}
+        <a
+         style="margin: 0 5px 0 0"
+         href="{{ site.cv_link | relative_url }}"
+         target="_blank"
+         rel="noopener noreferrer"
+         aria-label="Curriculum Vitae"
+         title="Curriculum Vitae">
+         <span style="color: #f0182d; font-weight: 600;">CV</span>
+         </a>
+        {% endif %}
+
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
