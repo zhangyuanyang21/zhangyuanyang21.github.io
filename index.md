@@ -48,7 +48,7 @@ I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/challenges.md %}
+{% include_relative _includes/Awards.md %}
 
 {% include_relative _includes/services.md %}
 
