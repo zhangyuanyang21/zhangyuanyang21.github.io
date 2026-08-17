@@ -7,6 +7,14 @@ layout: homepage
 I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), supervised by [Prof. Li Yao](https://cs.seu.edu.cn/yaoli/main.htm). If you are interested in our research topics or would like to discuss ideas, please feel free to contact me via email or [WeChat](assets/img/wechat.jpg).
 
 
+## Research Interests
+- **3D Vision**
+- **3D Scene Understanding**
+- **Multi-modal Learning**
+- **Person Re-identification**
+- **Industrial Anomaly Detection**
+
+
 ## News
 
 <div class="news-scroll" aria-label="News archive">
