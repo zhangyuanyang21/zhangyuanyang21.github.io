@@ -8,11 +8,93 @@ I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/
 
 
 ## Research Interests
-- **3D Vision**
-- **3D Scene Understanding**
-- **Multi-modal Learning**
-- **Person Re-identification**
-- **Industrial Anomaly Detection**
+
+<div class="research-interests">
+  <div class="research-interest">
+    <i class="fas fa-cube" aria-hidden="true"></i>
+    <span>3D Vision</span>
+  </div>
+
+  <div class="research-interest">
+    <i class="fas fa-city" aria-hidden="true"></i>
+    <span>3D Scene Understanding</span>
+  </div>
+
+  <div class="research-interest">
+    <i class="fas fa-layer-group" aria-hidden="true"></i>
+    <span>Multi-modal Learning</span>
+  </div>
+
+  <div class="research-interest">
+    <i class="fas fa-id-card" aria-hidden="true"></i>
+    <span>Person Re-identification</span>
+  </div>
+
+  <div class="research-interest">
+    <i class="fas fa-industry" aria-hidden="true"></i>
+    <span>Industrial Anomaly Detection</span>
+  </div>
+</div>
+
+<style>
+  .research-interests {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px 24px;
+    margin: 12px 0 26px;
+  }
+
+  .research-interest {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 7px 4px;
+    border-bottom: 1px solid #e4e8ec;
+    color: #333;
+    font-size: 0.98rem;
+    font-weight: 500;
+  }
+
+  .research-interest i {
+    flex: 0 0 28px;
+    width: 28px;
+    color: #0879b9;
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .research-interest span {
+    line-height: 1.4;
+  }
+
+  .research-interest:hover {
+    color: #0879b9;
+    border-bottom-color: #0879b9;
+  }
+
+  @media (max-width: 600px) {
+    .research-interests {
+      grid-template-columns: 1fr;
+      gap: 4px;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .research-interest {
+      color: #e7e7e7;
+      border-bottom-color: #444;
+    }
+
+    .research-interest i,
+    .research-interest:hover {
+      color: #3eb7f0;
+    }
+
+    .research-interest:hover {
+      border-bottom-color: #3eb7f0;
+    }
+  }
+</style>
 
 
 ## News
