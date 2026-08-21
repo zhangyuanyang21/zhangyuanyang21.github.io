@@ -1,4 +1,5 @@
 main:
+
   - title: "3D Object Detection and Knowledge Distillation in Autonomous Driving: A Survey"
     authors: "Weiqing Yan, Changhong Bu, <strong>Yuanyang Zhang</strong>, Guanghui Yue, Wei Zhou, Xiatian Zhu, Jungong Han"
     conference_short: Information Fusion
