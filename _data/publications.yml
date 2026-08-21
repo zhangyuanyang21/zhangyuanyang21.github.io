@@ -4,10 +4,10 @@ main:
     authors: "Weiqing Yan, Changhong Bu, <strong>Yuanyang Zhang</strong>, Guanghui Yue, Wei Zhou, Xiatian Zhu, Jungong Han"
     conference_short: Information Fusion
     conference: "Information Fusion."
-    pdf:
-    code:
+    pdf: https://www.sciencedirect.com/science/article/pii/S1566253526005828
+    code: https://github.com/XiaoBuHaHa/Knowledge_Distillation_Methods_for_3D_Object_Detection_in_Autonomous_Driver
     bibtex:
-    image: ./assets/img/3D-object-detection.png
+    image: ./assets/img/3DOB.png
     primary_author: false
 
   - title: "Prompt Contamination in Realistic Universal Cross-Domain Retrieval: Diagnosis and Text-Guided Rectification"
@@ -15,7 +15,7 @@ main:
     conference_short: CIKM
     conference: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
     pdf:
-    code:
+    code: 
     bibtex:
     image: ./assets/img/tgr-net-architecture.png
     primary_author: false
@@ -25,7 +25,7 @@ main:
     conference_short: CIKM
     conference: "ACM International Conference on Information and Knowledge Management (CIKM), 2026."
     pdf:
-    code:
+    code: https://github.com/YUEcjy13/BiFocus
     bibtex:
     image: ./assets/img/bifocus-method.png
     primary_author: false
@@ -35,7 +35,7 @@ main:
     conference_short: ACM MM
     conference: "ACM International Conference on Multimedia (ACM MM), 2026."
     pdf:
-    code:
+    code: https://github.com/YUEcjy13/TGR-Net
     bibtex:
     image: ./assets/img/EGRA.png
     primary_author: false
