@@ -1,5 +1,45 @@
 main:
 
+- title: "3D Object Detection and Knowledge Distillation in Autonomous Driving: A Survey"
+    authors: "Weiqing Yan, Changhong Bu, <strong>Yuanyang Zhang</strong>, Guanghui Yue, Wei Zhou, Xiatian Zhu, Jungong Han"
+    conference_short: Information Fusion
+    conference: "Information Fusion."
+    pdf: 
+    code:
+    bibtex: 
+    image: ./assets/img/ 3D-object-detection.png
+    primary_author: true
+
+  - title: "Prompt Contamination in Realistic Universal Cross-Domain Retrieval: Diagnosis and Text-Guided Rectification"
+    authors: "Jiangyue Chen, Li Yao<sup>†</sup>, <strong>Yuanyang Zhang</strong><sup>†</sup>, Xinwei Li"
+    conference_short: CIKM
+    conference: "ACM International Conference on Information and Knowledge Management (CIKM ’26)."
+    pdf: 
+    code:
+    bibtex: 
+    image: ./assets/img/tgr-net-architecture.png
+    primary_author: true
+
+  - title: "BiFocus: Evidence-Grounded Patch and Query-Token Calibration for Visual Document Retrieval"
+    authors: "Jiangyue Chen, Li Yao<sup>†</sup>, <strong>Yuanyang Zhang</strong><sup>†</sup>, Xinwei Li"
+    conference_short: CIKM
+    conference: "ACM International Conference on Information and Knowledge Management (CIKM ’26)."
+    pdf: 
+    code:
+    bibtex: 
+    image: ./assets/img/bifocus-method.png
+    primary_author: true
+    
+  - title: "Evidence-Grounded Reliable Anchoring for Interactive Text-to-Image Person Re-identification"
+    authors: "Haotian Tang, Li Yao<sup>†</sup>, <strong>Yuanyang Zhang</strong><sup>†</sup>"
+    conference_short: ACM MM
+    conference: "ACM Multimedia 2026."
+    pdf: 
+    code:
+    bibtex: 
+    image: ./assets/img/EGRA.png
+    primary_author: true
+
   - title: "Structure-Aware Conditional Diffusion Generation for Incomplete Multi-View Clustering"
     authors: "<strong>Yuanyang Zhang</strong>, Yijie Lin, Xinhang Wan, Jie Xu, Li Yao<sup>†</sup>, Weiqing Yan, Chang Tang"
     conference_short: TKDE  
