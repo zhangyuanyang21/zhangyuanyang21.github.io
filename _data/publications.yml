@@ -7,7 +7,7 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S1566253526005828
     code: https://github.com/XiaoBuHaHa/Knowledge_Distillation_Methods_for_3D_Object_Detection_in_Autonomous_Driver
     bibtex:
-    image: ./assets/img/3DOB.png
+    image: ./assets/img/3DOD.png
     primary_author: false
 
   - title: "Prompt Contamination in Realistic Universal Cross-Domain Retrieval: Diagnosis and Text-Guided Rectification"
