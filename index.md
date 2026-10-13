@@ -10,10 +10,6 @@ I am currently a Ph.D. student at [Southeast University](https://www.seu.edu.cn/
 ## Research Interests
 
 <div class="research-interests">
-  <div class="research-interest">
-    <i class="fas fa-cube" aria-hidden="true"></i>
-    <span>3D Vision</span>
-  </div>
 
   <div class="research-interest">
     <i class="fas fa-city" aria-hidden="true"></i>
