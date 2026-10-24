@@ -21,7 +21,7 @@
     <div class="competition-rank" title="Tencent Scholarship" aria-label="Tencent Scholarship">🏅</div>
     <div class="competition-detail">
       <div class="competition-title">Tencent Scholarship</div>
-      <div class="competition-meta">December 2026</div>
+      <div class="competition-meta">December 2025</div>
     </div>
   </div>
 
