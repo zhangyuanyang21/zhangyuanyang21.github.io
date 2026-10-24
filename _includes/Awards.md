@@ -10,6 +10,22 @@
   </div>
 
   <div class="competition-item competition-winner">
+    <div class="competition-rank" title="CSC Scholarship" aria-label="CSC Scholarship">🎓</div>
+    <div class="competition-detail">
+      <div class="competition-title">China Scholarship Council (CSC) Scholarship</div>
+      <div class="competition-meta">May 2026</div>
+    </div>
+  </div>
+
+  <div class="competition-item competition-winner">
+    <div class="competition-rank" title="Tencent Scholarship" aria-label="Tencent Scholarship">🏅</div>
+    <div class="competition-detail">
+      <div class="competition-title">Tencent Scholarship</div>
+      <div class="competition-meta">December 2026</div>
+    </div>
+  </div>
+
+  <div class="competition-item competition-winner">
     <div class="competition-rank" title="First Prize Scholarship" aria-label="First Prize Scholarship">🥇</div>
     <div class="competition-detail">
       <div class="competition-title">First Prize Graduate Academic Scholarship</div>
@@ -30,14 +46,6 @@
     <div class="competition-detail">
       <div class="competition-title">Outstanding Master’s Thesis Award of the Shandong Computer Society</div>
       <div class="competition-meta">November 2025</div>
-    </div>
-  </div>
-
-  <div class="competition-item competition-winner">
-    <div class="competition-rank" title="Outstanding Graduate" aria-label="Outstanding Graduate">⭐</div>
-    <div class="competition-detail">
-      <div class="competition-title">Outstanding Graduate Student of Yantai University</div>
-      <div class="competition-meta">October 2023</div>
     </div>
   </div>
 </div>
