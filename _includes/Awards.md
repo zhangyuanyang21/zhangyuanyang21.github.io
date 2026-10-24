@@ -10,6 +10,14 @@
   </div>
 
   <div class="competition-item competition-winner">
+    <div class="competition-rank" title="First Prize Scholarship" aria-label="First Prize Scholarship">🥇</div>
+    <div class="competition-detail">
+      <div class="competition-title">First Prize Graduate Academic Scholarship</div>
+      <div class="competition-meta">December 2026</div>
+    </div>
+  </div>
+
+  <div class="competition-item competition-winner">
     <div class="competition-rank" title="CSC Scholarship" aria-label="CSC Scholarship">🎓</div>
     <div class="competition-detail">
       <div class="competition-title">China Scholarship Council (CSC) Scholarship</div>
@@ -22,14 +30,6 @@
     <div class="competition-detail">
       <div class="competition-title">Tencent Scholarship</div>
       <div class="competition-meta">December 2025</div>
-    </div>
-  </div>
-
-  <div class="competition-item competition-winner">
-    <div class="competition-rank" title="First Prize Scholarship" aria-label="First Prize Scholarship">🥇</div>
-    <div class="competition-detail">
-      <div class="competition-title">First Prize Graduate Academic Scholarship</div>
-      <div class="competition-meta">December 2026</div>
     </div>
   </div>
 
